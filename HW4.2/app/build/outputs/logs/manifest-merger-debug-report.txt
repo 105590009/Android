@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\2f9ae624c682410c2722490f880e8a08\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\2e98033ddf179b06555d72dce961cd83\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\97a1feab896325af86c705c582b00f04\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\5adc9388dd83299a69d7ea9e4ef0a587\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\1d433b9b612924b82494c18c97c29fef\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\69079350c4d9d47daf3e7ae6aa0b41b6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6c2dae43154f2764fb9a6d478bbbbd9c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\0e69001982f47bba99dd186373f07962\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\5f8468a18036bea332eb1c9ebe207f90\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\2f9ae624c682410c2722490f880e8a08\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\2f9ae624c682410c2722490f880e8a08\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\2e98033ddf179b06555d72dce961cd83\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\2e98033ddf179b06555d72dce961cd83\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\97a1feab896325af86c705c582b00f04\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\97a1feab896325af86c705c582b00f04\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\5adc9388dd83299a69d7ea9e4ef0a587\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\5adc9388dd83299a69d7ea9e4ef0a587\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\1d433b9b612924b82494c18c97c29fef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\1d433b9b612924b82494c18c97c29fef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\69079350c4d9d47daf3e7ae6aa0b41b6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\69079350c4d9d47daf3e7ae6aa0b41b6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6c2dae43154f2764fb9a6d478bbbbd9c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6c2dae43154f2764fb9a6d478bbbbd9c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\0e69001982f47bba99dd186373f07962\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\0e69001982f47bba99dd186373f07962\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\5f8468a18036bea332eb1c9ebe207f90\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\5f8468a18036bea332eb1c9ebe207f90\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.paperscissorsstonegame.MainActivity
+ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\2f9ae624c682410c2722490f880e8a08\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\2f9ae624c682410c2722490f880e8a08\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\2e98033ddf179b06555d72dce961cd83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\2e98033ddf179b06555d72dce961cd83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\97a1feab896325af86c705c582b00f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\97a1feab896325af86c705c582b00f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\5adc9388dd83299a69d7ea9e4ef0a587\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\5adc9388dd83299a69d7ea9e4ef0a587\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\1d433b9b612924b82494c18c97c29fef\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\1d433b9b612924b82494c18c97c29fef\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\69079350c4d9d47daf3e7ae6aa0b41b6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\69079350c4d9d47daf3e7ae6aa0b41b6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6c2dae43154f2764fb9a6d478bbbbd9c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6c2dae43154f2764fb9a6d478bbbbd9c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\0e69001982f47bba99dd186373f07962\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\0e69001982f47bba99dd186373f07962\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\5f8468a18036bea332eb1c9ebe207f90\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\5f8468a18036bea332eb1c9ebe207f90\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\2f9ae624c682410c2722490f880e8a08\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JEK\Desktop\Android-MyHW4-2\HW4.2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\2f9ae624c682410c2722490f880e8a08\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\2e98033ddf179b06555d72dce961cd83\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\2e98033ddf179b06555d72dce961cd83\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\97a1feab896325af86c705c582b00f04\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\97a1feab896325af86c705c582b00f04\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\5adc9388dd83299a69d7ea9e4ef0a587\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\5adc9388dd83299a69d7ea9e4ef0a587\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\1d433b9b612924b82494c18c97c29fef\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\1d433b9b612924b82494c18c97c29fef\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\69079350c4d9d47daf3e7ae6aa0b41b6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\69079350c4d9d47daf3e7ae6aa0b41b6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6c2dae43154f2764fb9a6d478bbbbd9c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6c2dae43154f2764fb9a6d478bbbbd9c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\0e69001982f47bba99dd186373f07962\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\0e69001982f47bba99dd186373f07962\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\5f8468a18036bea332eb1c9ebe207f90\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\5f8468a18036bea332eb1c9ebe207f90\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\2f9ae624c682410c2722490f880e8a08\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.2] C:\Users\JEK\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\2f9ae624c682410c2722490f880e8a08\AndroidManifest.xml:27:13-51
