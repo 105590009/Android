@@ -1,0 +1,4 @@
+#Wed Apr 25 22:28:51 CST 2018
+base.0=C\:\\Users\\JEK\\Desktop\\andriod\\Android-MyHW6\\Unit030-GameUsingDynamicFragmentImprovedStructure\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
